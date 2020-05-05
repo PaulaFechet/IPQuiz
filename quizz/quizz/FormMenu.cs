@@ -12,6 +12,7 @@ namespace quizz
 {
     public partial class FormMenu : Form
     {
+        public static string _domainName;
         public FormMenu()
         {
             InitializeComponent();
@@ -32,31 +33,47 @@ namespace quizz
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void chemistryButton_Click(object sender, EventArgs e)
         {
-            FormStart newFormS = new FormStart();
-            newFormS.Show();
+            FormStart chemistryQuizz = new FormStart("chimie");
+            
+            this.Hide();
+            
+            chemistryQuizz.Show();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void ITButton_Click(object sender, EventArgs e)
         {
-            FormStart newFormS = new FormStart();
-            newFormS.Show();
+            FormStart ITQuizz = new FormStart("it");
+            this.Hide();
+            ITQuizz.Show();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void historyButton_Click(object sender, EventArgs e)
         {
-            FormStart newFormS = new FormStart();
-            newFormS.Show();
+            FormStart historyQuizz = new FormStart("history");
+            this.Hide();
+            historyQuizz.Show();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void artsButton_Click(object sender, EventArgs e)
         {
-            FormStart newFormS = new FormStart();
-            newFormS.Show();
+            FormStart artsQuizz = new FormStart("arts");
+            this.Hide();
+            artsQuizz.Show();
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void helpButton_Click(object sender, EventArgs e)
         {
 
         }
