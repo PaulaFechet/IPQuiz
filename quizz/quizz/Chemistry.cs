@@ -20,49 +20,48 @@ namespace quizz
 
         public override void Questions()
         {
-            Console.WriteLine("Chemistry question.");
-            Console.WriteLine("it question.");
-            questions[0, 0] = "The 2006 World Cup Football Tournament held in";
-            questions[0, 1] = "France";
-            questions[0, 2] = "China";
-            questions[0, 3] = "*Germany";
-            questions[0, 4] = "Brazil";
+            Console.WriteLine("Chemistry questions.");
+            questions[0, 0] = " What is the most common isotope of hydrogen?";
+            questions[0, 1] = "Deuterium";
+            questions[0, 2] = "Tritum";
+            questions[0, 3] = "*Protium";
+            questions[0, 4] = "Hydrogen only has one isotope!";
             //
-            questions[1, 0] = "The 'Black flag' signifies";
-            questions[1, 1] = "revolution/danger";
-            questions[1, 2] = "*protest";
-            questions[1, 3] = "truce";
-            questions[1, 4] = "peace";
+            questions[1, 0] = "You can't live without water! What is its chemical formula?";
+            questions[1, 1] = "H2";
+            questions[1, 2] = "*H2O";
+            questions[1, 3] = "H2O2";
+            questions[1, 4] = "O2";
             //
-            questions[2, 0] = "Robert Koch worked on";
-            questions[2, 1] = "*tuberculosis";
-            questions[2, 2] = "cholera";
-            questions[2, 3] = "malaria";
-            questions[2, 4] = "diabetes";
+            questions[2, 0] = "Which of these elements is a nonmetal?";
+            questions[2, 1] = "*Sulfur";
+            questions[2, 2] = "Manganese";
+            questions[2, 3] = "Aluminium";
+            questions[2, 4] = "Beryllium";
             //
-            questions[3, 0] = "The 2002 Commonwealth Games were held in";
-            questions[3, 1] = "*UK";
-            questions[3, 2] = "Canada";
-            questions[3, 3] = "Australia";
-            questions[3, 4] = "Malaysia";
+            questions[3, 0] = "Organic chemistry is the study of the compounds that make up living organisms. All organic molecules contain:";
+            questions[3, 1] = "*Carbon and Hydrogen";
+            questions[3, 2] = "Carbon Only";
+            questions[3, 3] = "Carbon and Nitrogen";
+            questions[3, 4] = "Carbon, Hydrogen, and Oxygen";
             //
-            questions[4, 0] = "The 2012 Olympics Games were held in";
-            questions[4, 1] = "New York";
-            questions[4, 2] = "Seul";
-            questions[4, 3] = "*London";
-            questions[4, 4] = "Tokyo";
+            questions[4, 0] = "The symbol Ag stands for which element?";
+            questions[4, 1] = "Magnesium";
+            questions[4, 2] = "Gallium";
+            questions[4, 3] = "*Silver";
+            questions[4, 4] = "Gold";
             //
-            questions[5, 0] = "Who is the owner of Marvel Studios";
-            questions[5, 1] = "Warner Bros";
-            questions[5, 2] = "*Walt Disney";
-            questions[5, 3] = "21st Century Fox";
-            questions[5, 4] = "Universal Studios";
+            questions[5, 0] = "A mole contains Avogadro's number of items. What is Avogadro's number?";
+            questions[5, 1] = "6023";
+            questions[5, 2] = "*6.023 x 10^23";
+            questions[5, 3] = "3 x 10^8";
+            questions[5, 4] = "6.02 x 10^-23";
             //
-            questions[6, 0] = "Pythagoras was first to ____ the universal validity of geometrical theorem.";
-            questions[6, 1] = "give";
-            questions[6, 2] = "*prove";
-            questions[6, 3] = "both";
-            questions[6, 4] = "None of the above";
+            questions[6, 0] = " What do you call an atom that has more protons than electrons?";
+            questions[6, 1] = "a molecule";
+            questions[6, 2] = "*a cation";
+            questions[6, 3] = "an isotope";
+            questions[6, 4] = "an anion";
             //
             questions[7, 0] = "Sulphur is not present in";
             questions[7, 1] = "iron pyrites";
@@ -70,17 +69,17 @@ namespace quizz
             questions[7, 3] = "coal";
             questions[7, 4] = "*chlorapatite";
             //
-            questions[8, 0] = "Oscar Awards were instituted in";
-            questions[8, 1] = "1968";
-            questions[8, 2] = "1901";
-            questions[8, 3] = "1965";
-            questions[8, 4] = "*1929";
+            questions[8, 0] = "All of the following are amino acids except:";
+            questions[8, 1] = "Tyrosine";
+            questions[8, 2] = "Tryptophan";
+            questions[8, 3] = "Leucine";
+            questions[8, 4] = "*Adenine";
             //
-            questions[9, 0] = "Sculpture flourished during";
-            questions[9, 1] = "*Indus valley civilization";
-            questions[9, 2] = "Egyptian civilization";
-            questions[9, 3] = "Chinese civilization";
-            questions[9, 4] = "None of the above";
+            questions[9, 0] = "In a solution of saltwater (a saline solution), salt is the:";
+            questions[9, 1] = "*Solute";
+            questions[9, 2] = "Solvent";
+            questions[9, 3] = "Sol";
+            questions[9, 4] = "Colloid";
             //
             questions[10, 0] = "Penicillin is widely used as";
             questions[10, 1] = "an insecticide";

@@ -9,3 +9,15 @@ C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuiz
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuizz\IPQuizz\quizz\quizz\obj\Debug\quizz.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuizz\IPQuizz\quizz\quizz\obj\Debug\quizz.exe
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuizz\IPQuizz\quizz\quizz\obj\Debug\quizz.pdb
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\bin\Debug\quizz.exe
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\bin\Debug\quizz.pdb
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\bin\Debug\quizz.exe.config
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.FormEndGame.resources
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.FormMenu.resources
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.FormStart.resources
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.Properties.Resources.resources
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.csproj.GenerateResource.cache
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.exe
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.pdb
+C:\Users\Ioana\Desktop\IP-proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.csprojAssemblyReference.cache

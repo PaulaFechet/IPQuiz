@@ -47,7 +47,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arts.cs" />
     <Compile Include="Chemistry.cs" />
+    <Compile Include="History.cs" />
     <Compile Include="ConcreteQuizzFactory.cs" />
     <Compile Include="Domain.cs" />
     <Compile Include="FormEndGame.cs">

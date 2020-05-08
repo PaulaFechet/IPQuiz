@@ -21,72 +21,72 @@ namespace quizz
 
         public override void Questions()
         {
-            Console.WriteLine("it question.");
-            questions[0, 0] = "The 2006 World Cup Football Tournament held in";
-            questions[0, 1] = "France";
-            questions[0, 2] = "China";
-            questions[0, 3] = "*Germany";
-            questions[0, 4] = "Brazil";
+            Console.WriteLine("IT questions.");
+            questions[0, 0] = "Which one is te first search engine in internet?";
+            questions[0, 1] = "Google";
+            questions[0, 2] = "*Archie";
+            questions[0, 3] = "Altavista";
+            questions[0, 4] = "WAIS";
             //
-            questions[1, 0] = "The 'Black flag' signifies";
-            questions[1, 1] = "revolution/danger";
-            questions[1, 2] = "*protest";
-            questions[1, 3] = "truce";
-            questions[1, 4] = "peace";
+            questions[1, 0] = "Number of bit used by the IPv6 address is:";
+            questions[1, 1] = "32 bit";
+            questions[1, 2] = "62 bit";
+            questions[1, 3] = "*128 bit";
+            questions[1, 4] = "256 bit";
             //
-            questions[2, 0] = "Robert Koch worked on";
-            questions[2, 1] = "*tuberculosis";
-            questions[2, 2] = "cholera";
-            questions[2, 3] = "malaria";
-            questions[2, 4] = "diabetes";
+            questions[2, 0] = "Which one is the frst web browser invented in 1990";
+            questions[2, 1] = "*Nexus";
+            questions[2, 2] = "Internet Explorer";
+            questions[2, 3] = "Mozilla";
+            questions[2, 4] = "Mosaic";
             //
-            questions[3, 0] = "The 2002 Commonwealth Games were held in";
-            questions[3, 1] = "*UK";
-            questions[3, 2] = "Canada";
-            questions[3, 3] = "Australia";
-            questions[3, 4] = "Malaysia";
+            questions[3, 0] = "Which of the following programming languages is used to create programs like applets?";
+            questions[3, 1] = "*Java";
+            questions[3, 2] = "C";
+            questions[3, 3] = "COBOL";
+            questions[3, 4] = "BASIC";
             //
-            questions[4, 0] = "The 2012 Olympics Games were held in";
-            questions[4, 1] = "New York";
-            questions[4, 2] = "Seul";
-            questions[4, 3] = "*London";
-            questions[4, 4] = "Tokyo";
+            questions[4, 0] = "First computer virus is known as:";
+            questions[4, 1] = "Rabbit";
+            questions[4, 2] = "*Creeper Virus";
+            questions[4, 3] = "Elk Cloner";
+            questions[4, 4] = "SCA Virus";
             //
-            questions[5, 0] = "Who is the owner of Marvel Studios";
-            questions[5, 1] = "Warner Bros";
-            questions[5, 2] = "*Walt Disney";
-            questions[5, 3] = "21st Century Fox";
-            questions[5, 4] = "Universal Studios";
+            questions[5, 0] = "Which one programming language is exclusively used for artificial intelligence";
+            questions[5, 1] = "C";
+            questions[5, 2] = "*Prolog";
+            questions[5, 3] = "Java";
+            questions[5, 4] = "J2EE";
             //
-            questions[6, 0] = "Pythagoras was first to ____ the universal validity of geometrical theorem.";
-            questions[6, 1] = "give";
-            questions[6, 2] = "*prove";
-            questions[6, 3] = "both";
-            questions[6, 4] = "None of the above";
+            questions[6, 0] = "Firewall in computer is used for:";
+            questions[6, 1] = "*Security";
+            questions[6, 2] = "Data Transmission";
+            questions[6, 3] = "Authentication";
+            questions[6, 4] = "Monitoring";
             //
-            questions[7, 0] = "Sulphur is not present in";
-            questions[7, 1] = "iron pyrites";
-            questions[7, 2] = "gypsum";
-            questions[7, 3] = "coal";
-            questions[7, 4] = "*chlorapatite";
+            questions[7, 0] = "A dual layer Blue-ray Disc can store data upto";
+            questions[7, 1] = "20GB";
+            questions[7, 2] = "35GB";
+            questions[7, 3] = "15GB";
+            questions[7, 4] = "*50GB";
             //
-            questions[8, 0] = "Oscar Awards were instituted in";
-            questions[8, 1] = "1968";
-            questions[8, 2] = "1901";
-            questions[8, 3] = "1965";
-            questions[8, 4] = "*1929";
+            questions[8, 0] = "Which of the following is not an operating system?";
+            questions[8, 1] = "DOS";
+            questions[8, 2] = "Mac";
+            questions[8, 3] = "Linus";
+            questions[8, 4] = "*C";
             //
-            questions[9, 0] = "Sculpture flourished during";
-            questions[9, 1] = "*Indus valley civilization";
-            questions[9, 2] = "Egyptian civilization";
-            questions[9, 3] = "Chinese civilization";
-            questions[9, 4] = "None of the above";
+            questions[9, 0] = "Which of the following is not a database management software?";
+            questions[9, 1] = "MySQL";
+            questions[9, 2] = "Oracle";
+            questions[9, 3] = "Sybase";
+            questions[9, 4] = "*COBOL";
             //
-            questions[10, 0] = "Penicillin is widely used as";
-            questions[10, 1] = "an insecticide";
-            questions[10, 2] = "an antiseptic";
-            questions[10, 3] = "a disinfectant";
-            questions[10, 4] = "*an antibiotic";
+            questions[10, 0] = "Number of layers in the OSI(Open Systems Inerconnection) Model";
+            questions[10, 1] = "11";
+            questions[10, 2] = "9";
+            questions[10, 3] = "4";
+            questions[10, 4] = "*7";
         }
 
         public override string getQuestion(int i)

@@ -51,14 +51,14 @@ namespace quizz
 
         private void historyButton_Click(object sender, EventArgs e)
         {
-            FormStart historyQuizz = new FormStart("history");
+            FormStart historyQuizz = new FormStart("istorie");
             this.Hide();
             historyQuizz.Show();
         }
 
         private void artsButton_Click(object sender, EventArgs e)
         {
-            FormStart artsQuizz = new FormStart("arts");
+            FormStart artsQuizz = new FormStart("arte");
             this.Hide();
             artsQuizz.Show();
         }
