@@ -73,7 +73,7 @@ namespace quizz
             questions[8, 0] = "Which of the following is not an operating system?";
             questions[8, 1] = "DOS";
             questions[8, 2] = "Mac";
-            questions[8, 3] = "Linus";
+            questions[8, 3] = "Linux";
             questions[8, 4] = "*C";
             //
             questions[9, 0] = "Which of the following is not a database management software?";
@@ -87,6 +87,60 @@ namespace quizz
             questions[10, 2] = "9";
             questions[10, 3] = "4";
             questions[10, 4] = "*7";
+            //
+            questions[11, 0] = "How many modes of operation are there in 8255 PPI? ";
+            questions[11, 1] ="1";
+            questions[11, 2] ="2";
+            questions[11, 3] ="*3";
+            questions[11, 4] ="4";
+            //
+            questions[12, 0] = "Microprocessor 8085 is enhanced version of …. With essentially the same construction set.";
+            questions[12, 1] ="6800";
+            questions[12, 2] ="68000";
+            questions[12, 3] ="*8080";
+            questions[12, 4] ="8000";
+            //
+            questions[13, 0] = "Which of the following is not the part of standard office suite?";
+            questions[13, 1] = "Word Processor";
+            questions[13, 2] ="Data base";
+            questions[13, 3] ="Image editor";
+            questions[13, 4] ="*File manager";
+            //
+            questions[14, 0] = "How many bytes are there in 1011 1001 0110 1110 numbers?";
+            questions[14, 1] ="1";
+            questions[14, 2] ="*2";
+            questions[14, 3] ="4";
+            questions[14, 4] ="8";
+            //
+            questions[15, 0] = "Transmission of data in one direction is called ";
+            questions[15, 1] ="*Simplex";
+            questions[15, 2] ="Duplex";
+            questions[15, 3] ="Triplex";
+            questions[15, 4] ="None of these";
+            //
+            questions[16, 0] = "This type of memory is commonly called temporary or volatile storage";
+            questions[16, 1] ="ROM";
+            questions[16, 2] ="*RAM";
+            questions[16, 3] ="Flash Memory";
+            questions[16, 4] ="Virtual Memory";
+            //
+            questions[17, 0] = ". —— is the heart of the computer and this is where all the computing is done.";
+            questions[17, 1] ="Keyboard";
+            questions[17, 2] ="Mouse";
+            questions[17, 3] ="*CPU";
+            questions[17, 4] ="Printer";
+            //
+            questions[18, 0] = "What is the full form of IP?";
+            questions[18, 1] ="Internet program";
+            questions[18, 2] ="*Internet Protocol";
+            questions[18, 3] ="Interface program";
+            questions[18, 4] ="Interface program";
+            //
+            questions[19, 0] = "The micro processor was introduced in";
+            questions[19, 1] = "first generation computers";
+            questions[19, 2] = "second generation computers";
+            questions[19, 3] = "third generation computers";
+            questions[19, 4] = "*fourth generation computers";
         }
 
         public override string getQuestion(int i)

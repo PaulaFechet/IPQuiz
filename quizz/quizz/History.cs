@@ -89,6 +89,60 @@ namespace quizz
             questions[10, 2] = "*Nagasaki";
             questions[10, 3] = "Denver";
             questions[10, 4] = "London";
+            //
+            questions[11, 0] = "Who did Henry VIII first marry?";
+            questions[11, 1] ="*Catherine of Aragon";
+            questions[11, 2] ="Meghan Markle";
+            questions[11, 3] ="Kate Middleton";
+            questions[11, 4] ="Holly Willoughby";
+            //
+            questions[12, 0] = "Who was the second man to walk on the moon?";
+            questions[12, 1] ="*Buzz Aldrin";
+            questions[12, 2] ="Neil Armstrong";
+            questions[12, 3] ="Mark Hamill";
+            questions[12, 4] ="Astronaut Audrey";
+            //
+            questions[13, 0] = "Where was the explorer Captain James Cook from?";
+            questions[13, 1] ="*England";
+            questions[13, 2] ="Denmark";
+            questions[13, 3] ="Germany";
+            questions[13, 4] ="Poland";
+            //
+            questions[14, 0] = "Which country gave the Statue of Liberty as a gift to the United States of America?";
+            questions[14, 1] ="England";
+            questions[14, 2] ="*France";
+            questions[14, 3] ="Canada";
+            questions[14, 4] ="Mexico";
+            //
+            questions[15, 0] = "Which war started in 1939 and ended in 1945?";
+            questions[15, 1] ="World War I";
+            questions[15, 2] ="The Vietnam War";
+            questions[15, 3] ="*World War II";
+            questions[15, 4] ="The Falklands War";
+            //
+            questions[16, 0] = "Who kept a diary during the Great Fire of London in 1666?";
+            questions[16, 1] ="Jeremy Clarkson";
+            questions[16, 2] ="*Samuel Pepys";
+            questions[16, 3] ="Dr. Seuss";
+            questions[16, 4] ="Prince Charles";
+            //
+            questions[17, 0] = "Who was the first President of the United States of America?";
+            questions[17, 1] ="George Bush";
+            questions[17, 2] ="George W.Bush";
+            questions[17, 3] ="*George Washington";
+            questions[17, 4] ="Ronald Reagan";
+            //
+            questions[18, 0] = "In which country was the Battle of Hastings fought?";
+            questions[18, 1] ="Scotland";
+            questions[18, 2] ="Wales";
+            questions[18, 3] ="*England";
+            questions[18, 4] ="France";
+            //
+            questions[19, 0] = "Which Roman emperor built a gigantic wall across the North East of England in 122 AD?";
+            questions[19, 1] ="Augustus";
+            questions[19, 2] ="*Hadrian";
+            questions[19, 3] ="Nero";
+            questions[19, 4] ="Caesar";
 
         }
 
