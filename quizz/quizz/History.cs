@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace quizz
 {
     class History:Domain
     {
-        //private readonly string _domainName;
         private string[,] questions = new string[20, 5];
 
         public override string domainName
@@ -21,7 +15,8 @@ namespace quizz
 
         public override void Questions()
         {
-
+            //raspunsurile corecte sunt notate cu * si vor fi ascunse de jucatori
+            //ne vor ajuta la calcularea scorului
             Console.WriteLine("History questions.");
             //
             questions[0, 0] = "In what year did Christopher Columbus discover the New World?";
@@ -156,5 +151,14 @@ namespace quizz
             return questions[i, j];
         }
 
+        //am nevoie de numarul de intrebari in cazul unei schimbari a numarului intrebarilor in cod
+        public override int getQuestionNumber
+        {
+            get
+            {
+                return questions.GetLength(0);
+            }
+
+        }
     }
 }

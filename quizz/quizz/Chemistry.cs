@@ -20,6 +20,8 @@ namespace quizz
 
         public override void Questions()
         {
+            //raspunsurile corecte sunt notate cu * si vor fi ascunse de jucatori
+            //ne vor ajuta la calcularea scorului
             Console.WriteLine("Chemistry questions.");
             questions[0, 0] = " What is the most common isotope of hydrogen?";
             questions[0, 1] = "Deuterium";
@@ -151,5 +153,16 @@ namespace quizz
         {
             return questions[i, j];
         }
+
+        //am nevoie de numarul de intrebari in cazul unei schimbari a numarului intrebarilor in cod
+        public override int getQuestionNumber
+        {
+            get
+            {
+                return questions.GetLength(0);
+            }
+
+         }
+
     }
 }

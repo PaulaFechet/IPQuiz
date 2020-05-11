@@ -9,7 +9,7 @@ namespace quizz
 {
     class IT : Domain
     {
-        //private readonly string _domainName;
+        
         private string[,] questions = new string[20, 5];
         public override string domainName
         {
@@ -21,6 +21,8 @@ namespace quizz
 
         public override void Questions()
         {
+            //raspunsurile corecte sunt notate cu * si vor fi ascunse de jucatori
+            //ne vor ajuta la calcularea scorului
             Console.WriteLine("IT questions.");
             questions[0, 0] = "Which one is te first search engine in internet?";
             questions[0, 1] = "Google";
@@ -153,6 +155,15 @@ namespace quizz
             return questions[i, j];
         }
 
+        //am nevoie de numarul de intrebari in cazul unei schimbari a numarului intrebarilor in cod
+        public override int getQuestionNumber
+        {
+            get
+            {
+                return questions.GetLength(0);
+            }
+
+        }
     }
 
 }

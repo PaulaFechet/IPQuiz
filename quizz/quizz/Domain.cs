@@ -13,5 +13,6 @@ namespace quizz
         public abstract void Questions();
         public abstract string getQuestion(int i);
         public abstract string getAnswer(int i, int j);
+        public abstract int getQuestionNumber { get; }
     }
 }

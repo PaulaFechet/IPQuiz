@@ -20,6 +20,8 @@ namespace quizz
 
         public override void Questions()
         {
+            //raspunsurile corecte sunt notate cu * si vor fi ascunse de jucatori
+            //ne vor ajuta la calcularea scorului
             Console.WriteLine("Arts questions.");
             questions[0, 0] = "Which Spanish artist painted the series known as ‘Fantasy and Invention’ in the 18th century?";
             questions[0, 1] = "*Francisco Goya";
@@ -152,6 +154,16 @@ namespace quizz
         public override string getAnswer(int i, int j)
         {
             return questions[i, j];
+        }
+
+        //am nevoie de numarul de intrebari in cazul unei schimbari a numarului intrebarilor in cod
+        public override int getQuestionNumber
+        {
+            get
+            {
+                return questions.GetLength(0);
+            }
+
         }
     }
 }

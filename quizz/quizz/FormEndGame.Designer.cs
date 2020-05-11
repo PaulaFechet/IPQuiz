@@ -42,6 +42,7 @@
             this.endGameButton.TabIndex = 0;
             this.endGameButton.Text = "End Game";
             this.endGameButton.UseVisualStyleBackColor = true;
+            this.endGameButton.Click += new System.EventHandler(this.endGameButton_Click);
             // 
             // scoreButton
             // 
