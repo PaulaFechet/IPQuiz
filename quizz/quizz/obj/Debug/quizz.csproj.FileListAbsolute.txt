@@ -32,3 +32,15 @@ C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuiz
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.FormStart.resources
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.Properties.Resources.resources
 C:\Users\Administrator\Desktop\AC_Anul3\sem2\IngineriaProgramarii\proiect\IPQuiz\quizz\quizz\obj\Debug\quizz.csproj.GenerateResource.Cache
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\bin\Debug\quizz.exe.config
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\bin\Debug\quizz.exe
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\bin\Debug\quizz.pdb
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.csprojAssemblyReference.cache
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.FormEndGame.resources
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.FormMenu.resources
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.FormStart.resources
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.Properties.Resources.resources
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.csproj.GenerateResource.cache
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.csproj.CoreCompileInputs.cache
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.exe
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Debug\quizz.pdb
