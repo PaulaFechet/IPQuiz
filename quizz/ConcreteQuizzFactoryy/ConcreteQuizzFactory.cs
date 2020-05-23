@@ -1,10 +1,15 @@
-﻿
+﻿using Domainn;
+using QuizzFactoryy;
+using ITT;
+using Chemistryy;
+using Artss;
+using Historyy;
 using System;
 
 
-namespace quizz
+namespace ConcreteQuizzFactoryy
 {
-    class ConcreteQuizzFactory : QuizzFactory
+    public class ConcreteQuizzFactory : QuizzFactory
     {
         public override Domain getDomain(string domain)
         {

@@ -22,3 +22,15 @@ C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Release\quizz.cs
 C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Release\quizz.csproj.CoreCompileInputs.cache
 C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Release\quizz.exe
 C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizz\obj\Release\quizz.pdb
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\bin\Release\quizz.exe.config
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\bin\Release\quizz.exe
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\bin\Release\quizz.pdb
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.csprojAssemblyReference.cache
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.FormEndGame.resources
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.FormMenu.resources
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.FormStart.resources
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.Properties.Resources.resources
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.csproj.GenerateResource.cache
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.exe
+C:\Users\Ioana\Desktop\IPQuiz\quizz\quizz\obj\Release\quizz.pdb

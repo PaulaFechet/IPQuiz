@@ -98,7 +98,7 @@ namespace quizz
 
         private void helpButton_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "file://C:\\Users\\pompa\\OneDrive\\Desktop\\quizzIP\\IPQuizz\\quizz\\quizz\\quiz_help\\Help.chm");
+            Help.ShowHelp(this, "file://C:\\Users\\Ioana\\Desktop\\IPQuiz\\quizz\\quizz\\quiz_help\\Help.chm");
         }
     }
 }
