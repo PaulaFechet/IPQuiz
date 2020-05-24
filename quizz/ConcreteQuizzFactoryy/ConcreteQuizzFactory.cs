@@ -1,8 +1,13 @@
-﻿
+﻿using Domainn;
+using QuizzFactoryy;
+using ITT;
+using Chemistryy;
+using Artss;
+using Historyy;
 using System;
 
 
-namespace quizz
+namespace ConcreteQuizzFactoryy
 {
     public class ConcreteQuizzFactory : QuizzFactory
     {

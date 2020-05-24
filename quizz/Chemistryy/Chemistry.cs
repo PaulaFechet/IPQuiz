@@ -1,10 +1,34 @@
-﻿using System;
+﻿/**************************************************************************
+ *                                                                        *
+ *  File:        FormStart.cs                                             *
+ *  Copyright:   (c) 2020, IP Project                                     *
+ *  Authors:       Fechet Paula                                           *
+ *                 Maftei Claudia                                         *
+ *                 Radu Cosmina                                           *
+ *                 Burbulea Ioana                                         *
+ *                                                                        *
+ *  Description: General Knowldege Quiz using Fabric Method Pattern       *
+ *                This class contains questions and answers about         *
+ *                Chemistry domain. The correct answer for each           *
+ *                question starts with "*".                               *
+ *                                                                        *
+ *  This code and information is provided "as is" without warranty of     *
+ *  any kind, either expressed or implied, including but not limited      *
+ *  to the implied warranties of merchantability or fitness for a         *
+ *  particular purpose. You are free to use this source code in your      *
+ *  applications as long as the original copyright notice is included.    *
+ *                                                                        *
+ **************************************************************************/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domainn;
 
-namespace quizz
+namespace Chemistryy
 {
     public class Chemistry : Domain
     {
@@ -91,58 +115,58 @@ namespace quizz
             questions[10, 4] = "*an antibiotic";
             //
             questions[11, 0] = "The nucleus of an atom consists of";
-            questions[11, 1] ="electrons and neutrons";
-            questions[11, 2] ="electrons and protons";
-            questions[11, 3] ="*protons and neutrons";
-            questions[11, 4] ="All of the these";
+            questions[11, 1] = "electrons and neutrons";
+            questions[11, 2] = "electrons and protons";
+            questions[11, 3] = "*protons and neutrons";
+            questions[11, 4] = "All of the these";
             //
             questions[12, 0] = "The number of moles of solute present in 1 kg of a solvent is called its";
-            questions[12, 1] ="*molality";
-            questions[12, 2] ="molarity";
-            questions[12, 3] ="normality";
-            questions[12, 4] ="formality";
+            questions[12, 1] = "*molality";
+            questions[12, 2] = "molarity";
+            questions[12, 3] = "normality";
+            questions[12, 4] = "formality";
             //
             questions[13, 0] = "The most electronegative element among the following is";
-            questions[13, 1] ="sodium";
-            questions[13, 2] ="bromine";
-            questions[13, 3] ="*fluorine";
-            questions[13, 4] ="oxygen";
+            questions[13, 1] = "sodium";
+            questions[13, 2] = "bromine";
+            questions[13, 3] = "*fluorine";
+            questions[13, 4] = "oxygen";
             //
             questions[14, 0] = "The metal used to recover copper from a solution of copper sulphate is";
-            questions[14, 1] ="Na";
-            questions[14, 2] ="Ag";
-            questions[14, 3] ="Hg";
-            questions[14, 4] ="*Fe";
+            questions[14, 1] = "Na";
+            questions[14, 2] = "Ag";
+            questions[14, 3] = "Hg";
+            questions[14, 4] = "*Fe";
             //
             questions[15, 0] = "The metallurgical process in which a metal is obtained in a fused state is called";
-            questions[15, 1] ="*smelting";
-            questions[15, 2] ="roasting";
-            questions[15, 3] ="calcinations";
-            questions[15, 4] ="froth floatation";
+            questions[15, 1] = "*smelting";
+            questions[15, 2] = "roasting";
+            questions[15, 3] = "calcinations";
+            questions[15, 4] = "froth floatation";
             //
             questions[16, 0] = "The most commonly used bleaching agent is";
-            questions[16, 1] ="alcohol";
-            questions[16, 2] ="carbon dioxide";
-            questions[16, 3] ="*chlorine";
-            questions[16, 4] ="sodium chlorine";
+            questions[16, 1] = "alcohol";
+            questions[16, 2] = "carbon dioxide";
+            questions[16, 3] = "*chlorine";
+            questions[16, 4] = "sodium chlorine";
             //
             questions[17, 0] = "The nucleus of a hydrogen atom consists of";
-            questions[17, 1] ="*1 proton only";
-            questions[17, 2] ="1 proton + 2 neutron";
-            questions[17, 3] ="1 neutron only";
-            questions[17, 4] ="1 electron only";
+            questions[17, 1] = "*1 proton only";
+            questions[17, 2] = "1 proton + 2 neutron";
+            questions[17, 3] = "1 neutron only";
+            questions[17, 4] = "1 electron only";
             //
             questions[18, 0] = "The nuclear particles which are assumed to hold the nucleons together are";
-            questions[18, 1] ="electrons";
-            questions[18, 2] ="positrons";
-            questions[18, 3] ="neutrons";
-            questions[18, 4] ="*mesons";
+            questions[18, 1] = "electrons";
+            questions[18, 2] = "positrons";
+            questions[18, 3] = "neutrons";
+            questions[18, 4] = "*mesons";
             //
             questions[19, 0] = "The metal that is used as a catalyst in the hydrogenation of oils is ";
-            questions[19, 1] ="*Ni";
-            questions[19, 2] ="Pb";
-            questions[19, 3] ="Cu";
-            questions[19, 4] ="Pt";
+            questions[19, 1] = "*Ni";
+            questions[19, 2] = "Pb";
+            questions[19, 3] = "Cu";
+            questions[19, 4] = "Pt";
         }
 
         public override string getQuestion(int i)
@@ -163,7 +187,7 @@ namespace quizz
                 return questions.GetLength(0);
             }
 
-         }
+        }
 
     }
 }

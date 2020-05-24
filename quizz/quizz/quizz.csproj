@@ -47,11 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arts.cs" />
-    <Compile Include="Chemistry.cs" />
-    <Compile Include="History.cs" />
-    <Compile Include="ConcreteQuizzFactory.cs" />
-    <Compile Include="Domain.cs" />
     <Compile Include="FormEndGame.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,10 +65,8 @@
     <Compile Include="FormStart.Designer.cs">
       <DependentUpon>FormStart.cs</DependentUpon>
     </Compile>
-    <Compile Include="IT.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuizzFactory.cs" />
     <EmbeddedResource Include="FormEndGame.resx">
       <DependentUpon>FormEndGame.cs</DependentUpon>
     </EmbeddedResource>
@@ -150,6 +143,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\brain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConcreteQuizzFactoryy\ConcreteQuizzFactoryy.csproj">
+      <Project>{229ac797-79b2-45d4-9089-b3a06e3d6e21}</Project>
+      <Name>ConcreteQuizzFactoryy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domainn\Domainn.csproj">
+      <Project>{342137d5-c538-4f01-9981-b8ea0f95f283}</Project>
+      <Name>Domainn</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuizzFactoryy\QuizzFactoryy.csproj">
+      <Project>{e4ffa588-522e-4c0c-8a70-8566c5c64ff8}</Project>
+      <Name>QuizzFactoryy</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
