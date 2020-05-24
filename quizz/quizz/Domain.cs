@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace quizz
 {
-    abstract class Domain
+    public abstract class Domain
     {
 
         public abstract string domainName { get; }

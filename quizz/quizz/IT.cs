@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace quizz
 
 {
-    class IT : Domain
+    public class IT : Domain
     {
         
         private string[,] questions = new string[20, 5];

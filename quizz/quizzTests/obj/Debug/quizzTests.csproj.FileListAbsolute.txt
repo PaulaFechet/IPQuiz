@@ -1,0 +1,16 @@
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\quizzTests.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\quizzTests.pdb
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\quizz.exe
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\quizz.pdb
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\quizz.exe.config
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\obj\Debug\quizzTests.csprojAssemblyReference.cache
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\obj\Debug\quizzTests.csproj.CopyComplete
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\obj\Debug\quizzTests.dll
+C:\Users\pompa\OneDrive\Desktop\quizzIP\IPQuizz\quizz\quizzTests\obj\Debug\quizzTests.pdb

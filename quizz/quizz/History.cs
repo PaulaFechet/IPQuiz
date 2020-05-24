@@ -1,7 +1,7 @@
 ﻿using System;
 namespace quizz
 {
-    class History:Domain
+    public class History:Domain
     {
         private string[,] questions = new string[20, 5];
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace quizz
 {
-    class Arts:Domain
+    public class Arts:Domain
     {
         private string[,] questions = new string[20, 5];
 
@@ -151,6 +151,7 @@ namespace quizz
             return questions[i, 0];
         }
 
+    
         public override string getAnswer(int i, int j)
         {
             return questions[i, j];

@@ -4,7 +4,7 @@ using System;
 
 namespace quizz
 {
-    class ConcreteQuizzFactory : QuizzFactory
+    public class ConcreteQuizzFactory : QuizzFactory
     {
         public override Domain getDomain(string domain)
         {

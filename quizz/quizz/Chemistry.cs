@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace quizz
 {
-    class Chemistry : Domain
+    public class Chemistry : Domain
     {
         //private readonly string _domainName;
         private string[,] questions = new string[20, 5];
@@ -16,6 +16,7 @@ namespace quizz
             {
                 return "Chemistry";
             }
+
         }
 
         public override void Questions()
