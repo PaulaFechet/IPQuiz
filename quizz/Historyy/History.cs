@@ -1,5 +1,11 @@
 ﻿using System;
-namespace quizz
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Domainn;
+
+namespace Historyy
 {
     public class History:Domain
     {

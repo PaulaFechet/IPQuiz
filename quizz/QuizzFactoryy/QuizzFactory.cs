@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Domainn;
 namespace QuizzFactoryy
-
 {
     public abstract class QuizzFactory
     {

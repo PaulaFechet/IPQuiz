@@ -1,11 +1,10 @@
 ﻿using Domainn;
-using QuizzFactoryy;
 using ITT;
-using Chemistryy;
 using Artss;
 using Historyy;
+using Chemistryy;
 using System;
-
+using QuizzFactoryy;
 
 namespace ConcreteQuizzFactoryy
 {
@@ -26,6 +25,9 @@ namespace ConcreteQuizzFactoryy
                 default:
                     throw new ApplicationException(string.Format("Domain '{0}' could not be created", domain));
             }
+
         }
+
     }
 }
+

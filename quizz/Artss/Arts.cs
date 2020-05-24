@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domainn;
 
-namespace quizz
+namespace Artss
 {
     public class Arts:Domain
     {
